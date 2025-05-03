@@ -1,5 +1,5 @@
 ### PALESTAIN-FLAG-PYTHON
-###### Drawing Plaestine Flag by python
+###### Drawing Palestine Flag by python
 -------------------------------------------------------------------------
 Simple code to draw Palestinian flag
 
